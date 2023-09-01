@@ -4,6 +4,9 @@ Collection of little automation tools I've written
 ## MacPorts Maintenence
 I'm not an active MacPorts maintainer, but I wanted to make this script available, both as a backup, and as a way to share my process with others.
 
+### macports/setup.sh
+This script clones my personal MacPorts tree and sets up the system to use it.
+
 ### macports/openstack.sh
 This script automates modifying many portfiles in a standarddized way.
 The first array of packages are modified to include recent versions of Python.
